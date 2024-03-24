@@ -1,7 +1,3 @@
-//
-// Created by r_yu_ on 15.11.2022.
-//
-
 #include "QuadTree.h"
 
 
