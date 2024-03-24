@@ -1,7 +1,3 @@
-//
-// Created by r_yu_ on 23.11.2022.
-//
-
 #ifndef QUADTREE_POINT_H
 #define QUADTREE_POINT_H
 
