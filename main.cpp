@@ -2,7 +2,6 @@
 #include "Vector.h"
 #include "QuadTree.h"
 #include "AutoTests.h"
-using namespace std;
 
 
 
